@@ -112,7 +112,7 @@ body {
     height: auto;
     background-image: url('jellyfish.png'); 
     background-size: contain;
-    animation: float 10s ease-in-out infinite; 
+    animation: float 8s ease-in-out infinite; 
     transition: opacity 1s; 
   }
   
